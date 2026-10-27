@@ -1,0 +1,23 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# Android (папка android/ создаётся в GitHub Actions командой flutter create)
+android/
+ios/
+web/
+linux/
+macos/
+windows/
+test/
+*.iml
+.idea/
+.vscode/
+local.properties
+.metadata
